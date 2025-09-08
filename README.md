@@ -1,6 +1,6 @@
 # Hi, I'm Esrat Limu!👋
 
-🎓 I'm a student who loves learning new things about technology and software development.  
+🎓 I'm a student of CSE at BAUST who loves learning new things about technology and software development.  
 💻 Currently exploring **programming, software projects, and computer concepts**.  
 🌱 Always curious about how things work inside computers.  
 
@@ -10,7 +10,7 @@
 - 🌍 Interested in building useful apps for students  
 
 ## Skills
-- Basics of C, Python, and Web Development  
+- Basics of C, Cpp, Java, Python, and Web Development, Mobile app  
 - Understanding of computer fundamentals  
 - Eager to improve every day 🚀  
 
